@@ -37,10 +37,10 @@ int main()
 		cin.ignore();
 		string word;
 		getline(cin, word);
-		cout << word << endl;
+		#cout << word << endl;
 		int size2 = word.size();
 		word = removeSpaces(word, size2);
-		cout << word << endl;
+		#cout << word << endl;
 		for (auto & c : word) c = toupper(c);//converting to uppercase
 		int size = word.size();
 		vector<char> cipher;
