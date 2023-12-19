@@ -17,7 +17,7 @@ To run the Enigma simulation, follow these steps:
    ```bash
    git clone https://github.com/bad-engineer/enigma.git
 ```
-**2. Build and compile the project.**
+**2. Compile the project.**
 
 **3. Run the executable and set rotor configurations as prompted.**
 
